@@ -1,5 +1,5 @@
 <img align="center" width="400" src="https://i.pinimg.com/originals/a8/76/53/a87653b748c9e1039538af8d0d522df0.gif">
-<h1 align="center">Hi 👋, I'm Gerald Genabe</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=435&lines=Hey%2C+I+am+Gerald+Genabe%F0%9F%91%BE;Self-taught+Web+Develope%E2%99%A8%EF%B8%8F%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always+learning+new+things%F0%9F%92%AC)](https://git.io/typing-svg)</h1>
 <h3 align="center">I am a passionate and enthusiast person that aspired to be a Front-end Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif">
 
